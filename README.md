@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on ... Python
 - 🤔 I’m looking for help with ... JavaScript
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [ScorpyG] (https://scorpyg.github.io/DarkCave/)
+- 📫 How to reach me: ... [ScorpyG](https://scorpyg.github.io/DarkCave/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm Vietnamese
