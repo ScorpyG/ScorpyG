@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **justinhoang90@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1keGfeTA8uYQEpV_unXnjeFpRyvSMBYK9HhW1UxVVdN4/edit?usp=sharing](https://docs.google.com/document/d/1keGfeTA8uYQEpV_unXnjeFpRyvSMBYK9HhW1UxVVdN4/edit?usp=sharing)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1keGfeTA8uYQEpV_unXnjeFpRyvSMBYK9HhW1UxVVdN4/edit?usp=sharing)
 
 - ⚡ Fun fact **I named my dog Lucky**
 
