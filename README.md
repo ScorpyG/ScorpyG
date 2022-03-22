@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Beyond-The-Horizon](https://github.com/ScorpyG/beyond-the-horizon)
 
-- 🌱 I’m currently learning **React.js, Python, JavaScript**
-
 - 👨‍💻 All of my projects are available at [https://justinhoang.netlify.app/](https://justinhoang.netlify.app/)
 
 - 📫 How to reach me **justinhoang90@gmail.com**
