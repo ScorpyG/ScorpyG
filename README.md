@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorpyg&label=Profile%20views&color=0e75b6&style=flat" alt="scorpyg" /> </p>
 
-- 🔭 I’m currently working on [Beyond-The-Horizon](https://github.com/ScorpyG/beyond-the-horizon)
+- 🔭 I’m currently working on 404: NOT FOUND!
 
 - 👨‍💻 All of my projects are available at [https://justinhoang.netlify.app/](https://justinhoang.netlify.app/)
 
