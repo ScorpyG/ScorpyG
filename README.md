@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorpyg&label=Profile%20views&color=0e75b6&style=flat" alt="scorpyg" /> </p>
 
-- 🔭 I’m currently working on 404: NOT FOUND!
+- 🔭 I’m currently reworking: [my portfolio](https://github.com/ScorpyG/justinhoang)
 
 - 👨‍💻 All of my projects are available at [https://justinhoang.netlify.app/](https://justinhoang.netlify.app/)
 
