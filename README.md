@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorpyg&label=Profile%20views&color=0e75b6&style=flat" alt="scorpyg" /> </p>
 
-- 🔭 I’m currently reworking: [quotegen 2.0](https://scorpy-quote-gen.vercel.app/)
+- 🔭 I’m currently reworking: [Spair](https://demo.spair.app/)
 
 - 👨‍💻 All of my projects are available at [https://justinhoang.netlify.app/](https://justinhoang.netlify.app/)
 
