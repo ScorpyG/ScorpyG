@@ -13,4 +13,16 @@
 </p>
 
 <h3 style="left">I'm broke please use referral code</h3>
-<a href="https://www.digitalocean.com/?refcode=968ec6190b7b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" /></a>
+
+<a href="https://www.digitalocean.com/?refcode=968ec6190b7b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
+  <img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" />
+</a>
+
+<a href="https://railway.com?referralCode=GI8xYS">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://railway.com/brand/logotype-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://railway.com/brand/logotype-dark.png">
+    <img alt="Railway Referral Badge" src="https://railway.com/brand/logotype-dark.svg" height="55" width="200" /> 
+  </picture>
+</a>
+
