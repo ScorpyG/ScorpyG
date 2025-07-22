@@ -18,7 +18,7 @@
   <img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" />
 </a>
 
-<a href="https://railway.com?referralCode=GI8xYS">
+<a href="https://railway.com?referralCode=y3gCTI">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://railway.com/brand/logotype-light.png">
     <source media="(prefers-color-scheme: dark)" srcset="https://railway.com/brand/logotype-dark.png">
