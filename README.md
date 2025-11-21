@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: [Startups Metrics](https://startupsmetrics.com)
 
-- 👨‍💻 All of my projects are available at [https://justinhoang.netlify.app/](https://justinhoang.netlify.app/)
+- 👨‍💻 All of my projects are available at [my website](https://justinhoang.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
