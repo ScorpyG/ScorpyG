@@ -18,18 +18,22 @@
   <img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg" alt="DigitalOcean Referral Badge" />
 </a>
 
+<br />
+
 <a href="https://railway.com?referralCode=y3gCTI">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://railway.com/brand/logotype-light.png">
     <source media="(prefers-color-scheme: dark)" srcset="https://railway.com/brand/logotype-dark.png">
-    <img alt="Railway Referral Badge" src="https://railway.com/brand/logotype-dark.svg" height="55" width="200" /> 
+    <img alt="Railway Referral Badge" src="https://railway.com/brand/logotype-dark.svg" height="60" width="220" /> 
   </picture>
 </a>
+
+<br />
 
 <a href="https://cursor.com/referral?code=HSQ2EFXXCQLL">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c0db198c-9e13-4dea-976d-51761c0799e6">
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/da73eda3-e718-4ad8-81a9-98c77e0ed9cf">
-    <img width="200" height="55" alt="LOCKUP_HORIZONTAL_2D_DARK" src="https://github.com/user-attachments/assets/da73eda3-e718-4ad8-81a9-98c77e0ed9cf" />
+    <img width="220" height="55" alt="LOCKUP_HORIZONTAL_2D_DARK" src="https://github.com/user-attachments/assets/da73eda3-e718-4ad8-81a9-98c77e0ed9cf" />
   </picture>
 </a>
