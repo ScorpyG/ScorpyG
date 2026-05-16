@@ -26,3 +26,10 @@
   </picture>
 </a>
 
+<a href="https://cursor.com/referral?code=HSQ2EFXXCQLL">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c0db198c-9e13-4dea-976d-51761c0799e6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/da73eda3-e718-4ad8-81a9-98c77e0ed9cf">
+    <img width="200" height="55" alt="LOCKUP_HORIZONTAL_2D_DARK" src="https://github.com/user-attachments/assets/da73eda3-e718-4ad8-81a9-98c77e0ed9cf" />
+  </picture>
+</a>
