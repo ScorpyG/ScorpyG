@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorpyg&label=Profile%20views&color=0e75b6&style=flat" alt="scorpyg" /> </p>
 
-- 🔭 I’m currently working on: [Startups Metrics](https://startupsmetrics.com)
-
-- 👨‍💻 All of my projects are available at [my website](https://justinhoang.me/)
+- 🔭 I’m currently working on: [Spair](https://spair.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
