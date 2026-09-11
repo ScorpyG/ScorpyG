@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorpyg&label=Profile%20views&color=0e75b6&style=flat" alt="scorpyg" /> </p>
 
-- 🔭 I’m currently working on: [Spair](https://spair.app)
+- 🔭 I’m currently working on: [Spair](https://www.spair.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,12 +14,13 @@
 
 <a href="https://railway.com?referralCode=y3gCTI">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://railway.com/brand/logotype-light.png">
-    <source media="(prefers-color-scheme: dark)" srcset="https://railway.com/brand/logotype-dark.png">
-    <img alt="Railway Referral Badge" src="https://railway.com/brand/logotype-dark.svg" height="60" width="220" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://railway.com/brand/logotype-dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://railway.com/brand/logotype-light.png">
+    <img alt="Railway Referral Badge" src="https://railway.com/brand/logotype-light.png" height="55" width="260" /> 
   </picture>
 </a>
 
+<br />
 <br />
 
 <a href="https://cursor.com/referral?code=HSQ2EFXXCQLL">
